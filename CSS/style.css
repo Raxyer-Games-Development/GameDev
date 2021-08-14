@@ -1,0 +1,68 @@
+body{
+    background-color: lightslategray;
+}
+
+#principal{
+    width: 900px;
+    height: 1000px;
+    border: 1px solid #000;
+    margin: auto;
+}
+
+header{
+    width: 900px;
+    height: 100px;
+    border: 1px solid black;
+    margin: -1px;
+}
+
+#logo{
+    width: 300px;
+    height: 100px;
+    border: 1px solid black;
+    float: left;
+    background-color: grey;
+    color: black;
+    margin: -1px;
+}
+
+.menu{
+    width: 360px;
+    height: 40px;
+    border: 1px solid gray;
+    float: right;
+    margin-top: 30px;
+    margin-right: 1px;
+    background-color: green;
+}
+
+.menu ul li{
+    list-style: none;
+    float: right;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    padding: 10px 10px;
+    border: 0px solid gray;
+    color: white;
+}
+
+#viernes1321{
+    width: 60x;
+    height: 510px;
+    border: 1px solid black;
+    margin-top: 120px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+#viernes1321 li{
+    list-style: none;
+    text-align: center;
+}
+
+#viernes1321 ul li{
+    list-style: square;
+    text-align: left;
+}
